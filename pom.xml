@@ -26,6 +26,10 @@
                 <sonar.token>squ_41053f0e4680c4ba244b044facd0595ebcbbf436</sonar.token>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    			<maven.compiler.source>11</maven.compiler.source>
+	    		<maven.compiler.target>11</maven.compiler.target>
+
+
         </properties>
 
 	<dependencies>
