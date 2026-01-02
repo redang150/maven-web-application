@@ -14,6 +14,7 @@
         Landmark Technologies, the Pride of Africa.
         Class41 DevOps MasterClass will start on September 20, 2025.
         Please invite all your contacts and friends to this life-changing course.
+           Thanks to Rupert Edang for all his hard work here at Landmark Technologies
 </h1>
 <hr>
 <br>
@@ -53,6 +54,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
