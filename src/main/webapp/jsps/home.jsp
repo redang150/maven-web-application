@@ -13,7 +13,7 @@
 <h1 align="center">Landmark Software Solutions is developing and supporting quality Software Solutions for millions of clients.
          Welcome to the year 2026 and I wish you all the best in your job search
     
-           Thanks to Rupert Edang for all his hard work here at Landmark Technologies
+           Thanks to Rupert Edang for all his hard work here at Landmark 
 </h1>
 <hr>
 <br>
@@ -53,6 +53,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
