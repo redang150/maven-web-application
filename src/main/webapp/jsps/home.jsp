@@ -14,7 +14,7 @@
          Welcome to the year 2026 and I wish you all the best in your job search
              This year is my year to shine
     
-           Thanks to Rupert Edang for all his hard work here at Landmark 
+           Thanks to Rupert for all his hard work here at Landmark 
 </h1>
 <hr>
 <br>
@@ -54,6 +54,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
